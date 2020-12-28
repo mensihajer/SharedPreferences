@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="checkbox">com.hajer.sharedpreferences.checkbox</string>
+    <string name="name">com.hajer.sharedpreferences.name</string>
+    <string name="password">com.hajer.sharedpreferences.password</string>
+
+</resources>
